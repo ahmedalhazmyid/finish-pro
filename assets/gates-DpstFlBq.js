@@ -1,0 +1,1 @@
+import{t as e}from"./react-SIfiwpqq.js";import{t}from"./jsx-runtime-0vZSBttN.js";import{t as n}from"./useNavigate-BiBXdZvA.js";e();var r=t(),i=`/login`;function a({to:e=i}){return(0,r.jsx)(n,{to:e})}export{a as t};

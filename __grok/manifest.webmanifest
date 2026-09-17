@@ -1,0 +1,17 @@
+{
+  "name": "Grok App",
+  "short_name": "Grok App",
+  "id": "/finish-pro/",
+  "start_url": "/finish-pro/",
+  "scope": "/finish-pro/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/finish-pro/__grok/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
